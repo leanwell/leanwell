@@ -13,10 +13,10 @@ Hi there, I'm leanwell 👋<br>I'm a second-year Mechatronics student who loves 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leanwell&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=leanwell&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=leanwell&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=leanwell&limit=5&theme=dark&combine_all_yearly_contributions=true)
