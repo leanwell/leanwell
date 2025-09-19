@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm leanwell 👋<br>I'm a second-year Mechatronics student who loves coding and has a strong focus on front-end web development—it's my forte. Currently, I'm diving into the world of mobile development to expand my skill set. I like to wake up and choose violence.
+Hi there, I'm leanwell 👋<br>I'm a second-year Mechatronics student who loves coding and has a strong focus on front-end web development—it's my forte. Currently, I'm diving into the world of mobile development to expand my skill set. I like to wake up and choose violence. (More focus on private repo lately ^_^)
 
 
 ## 🌐 Socials:
