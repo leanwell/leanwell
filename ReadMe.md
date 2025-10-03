@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd-year mechatronics student. okioki
+I'm a 3rd-year mechatronics student. okioki <br />
 Current project (Thesis): BALSA – Buoyant Automated Lake Surveillance and Analysis: An IoT-Equipped Solar-Powered Buoy System for Water Quality Monitoring in Laguna Lake
 
 
