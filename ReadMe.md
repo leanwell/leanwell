@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd-year mechatronics student. okioki <br />
+I'm a 4th-year mechatronics student. lezzz go! <br />
 
 
 ## 🌐 Socials:
